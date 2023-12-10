@@ -2,9 +2,9 @@
 
 ##
 
-- 💻 I'm software engineer, currently as a front-end developer.
+- 💻 I'm a software engineer, currently working as a front-end developer.
 - 📓 I’m currently learning Typescript
-- 🌏 Brazil
+- 🌏 From Brazil
   
 ## My Skills
 
